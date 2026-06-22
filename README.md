@@ -1,4 +1,4 @@
-# nwnc
+# nwnc - No warping no cry
 
 An Ableton Live extension built with `@ableton-extensions/sdk`. Simple goal: disable the **warp** on every clips in your session.
 
