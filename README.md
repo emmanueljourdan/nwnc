@@ -1,6 +1,6 @@
 # nwnc
 
-An Ableton Live extension built with `@ableton-extensions/sdk`.
+An Ableton Live extension built with `@ableton-extensions/sdk`. Simple goal: disable the **warp** on every clips in your session.
 
 ## Get Started
 
